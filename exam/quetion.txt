@@ -1,0 +1,33 @@
+EXAM
+
+1-misol
+O'zingiz haqingizda to'liq ma'lumot qaytaradigon dastur tuzing. 
+
+2-misol
+
+       1
+      111
+     11111
+     11111
+    1111111
+      ||
+Konsulga chiqaring
+
+3-misol
+10 ta sonni kiriting va ular ichidan faqat ikki xonali sonlarni yig'indisi ekrangga chiqaring.
+Integer tipida 10ta sonni konsoldan kiriting. (for yoki while dan foydalining)
+Ikki xonali sonlar yig'indisini ekrangga chiqaring.
+
+4-misol
+Integer tipida 2 ta sonni konsoldan kiriting va shu ikki son o'rtasidagi 3 ga qoldiqsiz bo'linadigan sonlarni yonma-yon ekrangga chiqaring
+
+5-misol
+Integer tipida bitta sonni konsoldan kiriting. 1 dan boshlab shu kiritilgan songacha bo'lgan hamma juft sonlarning kvadratlari yig'indisini ekrangga chiqaring.
+
+6-misol 
+Integer tipida bitta o'garuvchini konsoldan kiriting, agar kiritilgan son ikki xonali toq son bolsa shu Sonni ekranga chiqaring.
+Aks holda "None" yozuvini chiqaring.
+
+7-misol
+0 kiritilguncha integer tipida sonlar kiriting. 0 kiritilsa son kiritish to'xtasin va kiritilgan sonlar ichidan tub sonlar yig'indisini hisoblang.
+Topilgan yig'indi juft yoki toqligini ekrangga chiqaring.

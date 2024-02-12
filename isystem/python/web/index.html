@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Передача данных в Python</title>
+    <script src="/eel.js"></script>
+    <script>
+        // function sendData() {
+        //     var inputText = document.getElementById("inputText").value;
+        //     eel.processData(inputText);
+        // }
+        const a = eel.processData()(function(data) {
+                document.getElementById('a').innerText = data.data;
+        });
+    </script>
+</head>
+<body>
+    <input type="text" id="inputText" placeholder="Введите данные">
+    <button onclick="sendData()">Отправить</button>
+    <button onclick="a()">Отправить</button>
+    <img src="p.jpg" alt="nhgnjghj">
+    <input type="file" name="" id="ab">
+    <h1 id="a"></h1>
+</body>
+</html>
